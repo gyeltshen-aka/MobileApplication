@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="royal_university_of_bhutan">Royal University Of Bhutan</string>
+    <string name="textview2">TextView</string>
+    <string name="gyalpozhing_college_of_information_technology">Gyalpozhing College Of Information Technology</string>
+    <string name="information">1. ifconfig: it is one of the most basic and commonly used commands for finding network details. It is also used to configure network interface parameters.
+    2. ip: ip command is the latest version of ifconfig. It is more powerful than ifconfig command as it can perform several other tasks like configuring default or static routing, showing IP addresses and its properties, setting up IP addresses, and routes for network interfaces.
+    3. traceroute: traceroute command is commonly used to troubleshoot the network. https://vle.gcit.edu.bt/login/index.php It finds out the delay and pathway to your destination. It determines and reports where is network latency comes from.
+    4. tracepath: tracepath is just like a ‘traceroute’ command to detect network delay but does not need root privileges. It is pre-installed on Ubuntu. It points out the exact place where your network is lagging. It also recognizes each hop in the route to the destination.
+    5. ping: ping (Packet INternet Groper) is another most commonly used network command to check connectivity between two network nodes. It is used to measure the average response. If we can send a ping to any host and if it did not give any response, we can assume that either host is not reachable due to any network issue or its firewall is blocking the request.
+    </string>
+
+</resources>
