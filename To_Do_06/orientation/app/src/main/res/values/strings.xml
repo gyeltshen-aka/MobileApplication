@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">messageSendingandRecieving</string>
+    <string name="editText_main">Enter Text</string>
+    <string name="button_main">Send</string>
+    <string name="text_header_reply">ToDo_04</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Text</string>
+    <string name="text_header">ToDo_04</string>
+    <string name="reply_recieved">Reply Recieved</string>
+    <string name="hint">hint</string>
+    <string name="reply">reply</string>
+    <string name="sender_message">Enter Text</string>
+    <string name="head_sender">Message Recieved</string>
+    <string name="reply_message">Enter Reply</string>
+    <string name="reply_head">Message Recieved</string>
+</resources>
