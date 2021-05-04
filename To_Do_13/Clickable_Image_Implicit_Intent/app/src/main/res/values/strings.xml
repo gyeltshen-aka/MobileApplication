@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Clickable_Image_Implicit_Intent</string>
+    <string name="donutText">Donuts are glazed and sprinkled with candy.</string>
+    <string name="oreoText">Oreo ice cream have many surprise oreo taste.</string>
+    <string name="creamText">Froyo is premium self-serve frozen yogurt</string>
+    <string-array name="layout_array">
+        <item>Home</item>
+        <item>Phone</item>
+        <item>Work</item>
+        <item>Others</item>
+    </string-array>
+</resources>
