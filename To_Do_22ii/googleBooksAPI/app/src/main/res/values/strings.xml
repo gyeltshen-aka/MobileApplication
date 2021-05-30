@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">googleBooksAPI</string>
+    <string name="instruction">Enter a book name to find out who wrote the book</string>
+    <string name="button_text">Search Box</string>
+    <string name="input_hint">Book Title</string>
+    <string name="loading">.............loading</string>
+    <string name="noSearch">No search Item available</string>
+    <string name="noNetwork">Check your Internet Connection</string>
+</resources>
